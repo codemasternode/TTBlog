@@ -6,8 +6,13 @@
     "start": "next start"
   },
   "dependencies": {
+    "axios": "^0.18.0",
+    "isomorphic-unfetch": "^3.0.0",
+    "net": "^1.0.2",
     "next": "^6.1.2",
     "react": "^16.5.0",
-    "react-dom": "^16.5.0"
+    "react-dom": "^16.5.0",
+    "tls": "0.0.1",
+    "woocommerce-api": "^1.4.2"
   }
 }
